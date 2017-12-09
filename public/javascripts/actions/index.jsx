@@ -13,6 +13,7 @@ export const setVisbility = (filter) => {
     return {
         type: 'SET_VISIBILITY',
         filter
+
     }
 };
 /*用户点击待办项完成待办项行为*/
